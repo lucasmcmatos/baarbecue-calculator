@@ -1,0 +1,70 @@
+#background{
+
+    max-width: 300px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius:10px ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#head{
+    
+    margin: auto;
+    max-width: 200px;
+
+
+}
+
+#title{
+
+    display: block;
+    margin-right: 50%;
+    transform: translateX(5%);
+    
+}
+
+
+
+input{
+
+    width: 75%;
+    display: block;
+    padding: 3px;
+    margin: auto;
+    margin-bottom: 10px;
+    
+}
+
+button {
+
+    display: block;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-style:hidden;
+    border-radius: 3px;
+    background-color: rgb(204, 204, 204);
+  
+}
+
+
+
+#result{
+
+    margin: 10px;
+
+}
+
+.results{
+
+    display: block;
+    background-color: white;
+    border-radius: 3px;
+    padding:5px;
+    margin: 5px;
+
+
+}
+
